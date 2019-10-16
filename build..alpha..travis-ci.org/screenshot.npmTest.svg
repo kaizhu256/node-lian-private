@@ -1,9 +1,9 @@
-<svg height="1246" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="1246" fill="#555" width="720"></rect>
+<svg height="1278" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1278" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
 
-<tspan x="10" y="42">\x1b[35m[MODE_BUILD=npmTest]\x1b[0m - 2019-10-16T18:21:42.896Z - npm-testing /home/travis/build/\</tspan>
+<tspan x="10" y="42">\x1b[35m[MODE_BUILD=npmTest]\x1b[0m - 2019-10-16T18:23:11.648Z - npm-testing /home/travis/build/\</tspan>
 <tspan x="10" y="58">kaizhu256/node-lian-private</tspan>
 
 <tspan x="10" y="74"></tspan>
@@ -23,120 +23,126 @@
 <tspan x="10" y="202">npmTest - merged test-report from file /home/travis/build/kaizhu256/node-lian-private/tmp/build/\</tspan>
 <tspan x="10" y="218">test-report.json</tspan>
 
-<tspan x="10" y="234">http-server listening on port 47957</tspan>
+<tspan x="10" y="234">http-server listening on port 39266</tspan>
 
-<tspan x="10" y="250">testRunDefault - 10933 ms - [node test-case 1 of 7 passed] - testCase_buildApidoc_default</tspan>
+<tspan x="10" y="250">testRunDefault - 81634 ms - [node test-case 1 of 7 passed] - testCase_buildApidoc_default</tspan>
 
-<tspan x="10" y="266">testRunDefault - 10987 ms - [node test-case 2 of 7 passed] - testCase_buildLib_default</tspan>
+<tspan x="10" y="266">testRunDefault - 81709 ms - [node test-case 2 of 7 passed] - testCase_buildLib_default</tspan>
 
-<tspan x="10" y="282">testRunDefault - 10998 ms - [node test-case 3 of 7 passed] - testCase_buildReadme_default</tspan>
+<tspan x="10" y="282">testRunDefault - 81727 ms - [node test-case 3 of 7 passed] - testCase_buildReadme_default</tspan>
 
-<tspan x="10" y="298">testRunDefault - 10999 ms - [node test-case 4 of 7 passed] - testCase_buildTest_default</tspan>
+<tspan x="10" y="298">testRunDefault - 81733 ms - [node test-case 4 of 7 passed] - testCase_buildTest_default</tspan>
 
-<tspan x="10" y="314">testRunDefault - 10999 ms - [node test-case 5 of 7 passed] - testCase_nop_default</tspan>
+<tspan x="10" y="314">testRunDefault - 81739 ms - [node test-case 5 of 7 passed] - testCase_nop_default</tspan>
 
-<tspan x="10" y="330">jslint - 353ms /home/travis/build/kaizhu256/node-lian-private/README.md</tspan>
+<tspan x="10" y="330">jslint - 395ms /home/travis/build/kaizhu256/node-lian-private/README.md</tspan>
 
-<tspan x="10" y="346">jslint - 61ms /home/travis/build/kaizhu256/node-lian-private/lib.lian_private.js</tspan>
+<tspan x="10" y="346"></tspan>
 
-<tspan x="10" y="362">jslint - 0ms /home/travis/build/kaizhu256/node-lian-private/package.json</tspan>
+<tspan x="10" y="362">DevTools listening on ws://127.0.0.1:43479/devtools/browser/c9824443-88ca-49b5-af13-9adb065e967a</tspan>
 
-<tspan x="10" y="378">jslint - 61ms /home/travis/build/kaizhu256/node-lian-private/test.js</tspan>
+<tspan x="10" y="378">jslint - 94ms /home/travis/build/kaizhu256/node-lian-private/lib.lian_private.js</tspan>
 
 <tspan x="10" y="394">jslint - 2ms /home/travis/build/kaizhu256/node-lian-private/npm_scripts.sh</tspan>
 
-<tspan x="10" y="410"></tspan>
+<tspan x="10" y="410">jslint - 0ms /home/travis/build/kaizhu256/node-lian-private/package.json</tspan>
 
-<tspan x="10" y="426">DevTools listening on ws://127.0.0.1:46255/devtools/browser/084a7703-fc90-403b-bb65-f8602d3eb881</tspan>
+<tspan x="10" y="426">jslint - 62ms /home/travis/build/kaizhu256/node-lian-private/test.js</tspan>
 
-<tspan x="10" y="442">[1016/182144.215227:ERROR:command_buffer_proxy_impl.cc(124)] ContextResult::kTransientFailure: F\</tspan>
+<tspan x="10" y="442">[1016/182312.737998:ERROR:command_buffer_proxy_impl.cc(124)] ContextResult::kTransientFailure: F\</tspan>
 <tspan x="10" y="458">ailed to send GpuChannelMsg_CreateCommandBuffer.</tspan>
 
-<tspan x="10" y="474">[1016/182144.215190:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed wi\</tspan>
-<tspan x="10" y="490">th unconsumed attachments: 0/1</tspan>
+<tspan x="10" y="474">[1016/182313.094421:INFO:CONSOLE(542)] "Uncaught TypeError: local.testRunBrowser is not a functi\</tspan>
+<tspan x="10" y="490">on", source: http://127.0.0.1:39266/assets.example.js (542)</tspan>
 
-<tspan x="10" y="506">[1016/182144.220946:ERROR:command_buffer_proxy_impl.cc(124)] ContextResult::kTransientFailure: F\</tspan>
-<tspan x="10" y="522">ailed to send GpuChannelMsg_CreateCommandBuffer.</tspan>
+<tspan x="10" y="506">http-server listening on port 41995</tspan>
 
-<tspan x="10" y="538">[1016/182144.220917:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed wi\</tspan>
-<tspan x="10" y="554">th unconsumed attachments: 0/1</tspan>
+<tspan x="10" y="522">[1016/182313.134636:INFO:CONSOLE(522)] "testRunDefault - 11 ms - [browser test-case 1 of 1 passe\</tspan>
+<tspan x="10" y="538">d] - testCase_nop_default", source: http://127.0.0.1:39266/assets.example.js (522)</tspan>
 
-<tspan x="10" y="570">http-server listening on port 41738</tspan>
+<tspan x="10" y="554">[1016/182313.215226:INFO:CONSOLE(522)] "domOnEventWindowOnloadTimeElapsed = 239", source: http:/\</tspan>
+<tspan x="10" y="570">/127.0.0.1:39266/assets.example.js (522)</tspan>
 
-<tspan x="10" y="586">[1016/182144.575278:INFO:CONSOLE(538)] "Uncaught TypeError: local.testRunBrowser is not a functi\</tspan>
-<tspan x="10" y="602">on", source: http://127.0.0.1:47957/assets.example.js (538)</tspan>
+<tspan x="10" y="586">testRunDefault - 82901 ms - [node test-case 6 of 7 passed] - testCase_webpage_default</tspan>
 
-<tspan x="10" y="618">[1016/182144.605459:INFO:CONSOLE(518)] "testRunDefault - 7 ms - [browser test-case 1 of 1 passed\</tspan>
-<tspan x="10" y="634">] - testCase_nop_default", source: http://127.0.0.1:47957/assets.example.js (518)</tspan>
+<tspan x="10" y="602">testRunDefault - 85640 ms - testCase pending - testCase_buildApp_default ...</tspan>
 
-<tspan x="10" y="650">[1016/182144.686836:INFO:CONSOLE(518)] "domOnEventWindowOnloadTimeElapsed = 277", source: http:/\</tspan>
-<tspan x="10" y="666">/127.0.0.1:47957/assets.example.js (518)</tspan>
+<tspan x="10" y="618">testRunDefault - 87498 ms - [node test-case 7 of 7 passed] - testCase_buildApp_default</tspan>
 
-<tspan x="10" y="682">testRunDefault - 12291 ms - [node test-case 6 of 7 passed] - testCase_webpage_default</tspan>
+<tspan x="10" y="634">--------------------------|-----------|-----------|-----------|-----------|</tspan>
 
-<tspan x="10" y="698">testRunDefault - 16588 ms - [node test-case 7 of 7 passed] - testCase_buildApp_default</tspan>
+<tspan x="10" y="650">File                      |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
 
-<tspan x="10" y="714">--------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="666">--------------------------|-----------|-----------|-----------|-----------|</tspan>
 
-<tspan x="10" y="730">File                      |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
+<tspan x="10" y="682">   node-lian-private/     |       100 |       100 |       100 |       100 |</tspan>
 
-<tspan x="10" y="746">--------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="698">      lib.lian_private.js |       100 |       100 |       100 |       100 |</tspan>
 
-<tspan x="10" y="762">   node-lian-private/     |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="714">      test.js             |       100 |       100 |       100 |       100 |</tspan>
 
-<tspan x="10" y="778">      lib.lian_private.js |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="730">--------------------------|-----------|-----------|-----------|-----------|</tspan>
 
-<tspan x="10" y="794">      test.js             |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="746">All files                 |       100 |       100 |       100 |       100 |</tspan>
 
-<tspan x="10" y="810">--------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="762">--------------------------|-----------|-----------|-----------|-----------|</tspan>
 
-<tspan x="10" y="826">All files                 |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="778"></tspan>
 
-<tspan x="10" y="842">--------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="794">created coverage file /home/travis/build/kaizhu256/node-lian-private/tmp/build/coverage.html/ind\</tspan>
+<tspan x="10" y="810">ex.html</tspan>
 
-<tspan x="10" y="858"></tspan>
+<tspan x="10" y="826"></tspan>
 
-<tspan x="10" y="874">created coverage file /home/travis/build/kaizhu256/node-lian-private/tmp/build/coverage.html/ind\</tspan>
-<tspan x="10" y="890">ex.html</tspan>
+<tspan x="10" y="842">npmTest - merged test-report from file /home/travis/build/kaizhu256/node-lian-private/tmp/build/\</tspan>
+<tspan x="10" y="858">test-report.json</tspan>
 
-<tspan x="10" y="906"></tspan>
+<tspan x="10" y="874"></tspan>
 
-<tspan x="10" y="922">npmTest - merged test-report from file /home/travis/build/kaizhu256/node-lian-private/tmp/build/\</tspan>
-<tspan x="10" y="938">test-report.json</tspan>
+<tspan x="10" y="890">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="954"></tspan>
+<tspan x="10" y="906">| test-report - buildApidoc - node - linux v12.12.0 - 2019-10-16T18:21:50.411Z</tspan>
 
-<tspan x="10" y="970">-------------------------------------------------------</tspan>
+<tspan x="10" y="922">|   87498 ms            0 failed        7 passed      |</tspan>
 
-<tspan x="10" y="986">| test-report - buildApp - node - linux v12.12.0 - 2019-10-16T18:21:32.392Z</tspan>
+<tspan x="10" y="938">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="1002">|   16589 ms            0 failed        7 passed      |</tspan>
+<tspan x="10" y="954">| test-report - buildApp - node - linux v12.12.0 - 2019-10-16T18:21:32.392Z</tspan>
 
-<tspan x="10" y="1018">-------------------------------------------------------</tspan>
+<tspan x="10" y="970">|   16589 ms            0 failed        7 passed      |</tspan>
 
-<tspan x="10" y="1034">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
-<tspan x="10" y="1050">L, like Gecko) HeadlessChrome/77.0.3865.120 Safari/537.36 - 2019-10-16T18:21:44.531Z</tspan>
+<tspan x="10" y="986">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="1066">|      19 ms            0 failed        1 passed      |</tspan>
+<tspan x="10" y="1002">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
+<tspan x="10" y="1018">L, like Gecko) HeadlessChrome/77.0.3865.120 Safari/537.36 - 2019-10-16T18:21:44.531Z</tspan>
 
-<tspan x="10" y="1082">-------------------------------------------------------</tspan>
+<tspan x="10" y="1034">|      19 ms            0 failed        1 passed      |</tspan>
 
-<tspan x="10" y="1098"></tspan>
+<tspan x="10" y="1050">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="1114">created test-report file /home/travis/build/kaizhu256/node-lian-private/tmp/build/test-report.ht\</tspan>
-<tspan x="10" y="1130">ml</tspan>
+<tspan x="10" y="1066">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
+<tspan x="10" y="1082">L, like Gecko) HeadlessChrome/77.0.3865.120 Safari/537.36 - 2019-10-16T18:23:13.055Z</tspan>
 
-<tspan x="10" y="1146"></tspan>
+<tspan x="10" y="1098">|      30 ms            0 failed        1 passed      |</tspan>
 
-<tspan x="10" y="1162"></tspan>
+<tspan x="10" y="1114">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="1178">npmTest - 0 failed tests</tspan>
+<tspan x="10" y="1130"></tspan>
+
+<tspan x="10" y="1146">created test-report file /home/travis/build/kaizhu256/node-lian-private/tmp/build/test-report.ht\</tspan>
+<tspan x="10" y="1162">ml</tspan>
+
+<tspan x="10" y="1178"></tspan>
 
 <tspan x="10" y="1194"></tspan>
 
-<tspan x="10" y="1210"></tspan>
+<tspan x="10" y="1210">npmTest - 0 failed tests</tspan>
 
-<tspan x="10" y="1226">\x1b[35m[MODE_BUILD=npmTest]\x1b[0m - 2019-10-16T18:21:49.331Z - EXIT_CODE - 0</tspan>
+<tspan x="10" y="1226"></tspan>
+
+<tspan x="10" y="1242"></tspan>
+
+<tspan x="10" y="1258">\x1b[35m[MODE_BUILD=npmTest]\x1b[0m - 2019-10-16T18:23:18.254Z - EXIT_CODE - 0</tspan>
 
 </text>
 </svg>
