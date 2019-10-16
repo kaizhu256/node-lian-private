@@ -1,6 +1,6 @@
 // usr/bin/env node
 /*
- * lib.lian_private.js (0.0.1)
+ * lib.lian_private.js (2019.10.16)
  * https://github.com/kaizhu256/node-lian-private
  * the greatest app in the world!
  *

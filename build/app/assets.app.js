@@ -69339,7 +69339,7 @@ local.stateInit({
 /* jslint ignore:start */
 local.assetsDict["/assets.lian_private.js"] = "// usr/bin/env node\n\
 /*\n\
- * lib.lian_private.js (0.0.1)\n\
+ * lib.lian_private.js (2019.10.16)\n\
  * https://github.com/kaizhu256/node-lian-private\n\
  * the greatest app in the world!\n\
  *\n\
@@ -69763,7 +69763,7 @@ return;\n\
 
 // usr/bin/env node
 /*
- * lib.lian_private.js (0.0.1)
+ * lib.lian_private.js (2019.10.16)
  * https://github.com/kaizhu256/node-lian-private
  * the greatest app in the world!
  *
